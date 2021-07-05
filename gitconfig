@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = isabelle.ung@kedgebs.com
+	name = Tevy Ung
